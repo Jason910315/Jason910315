@@ -1,11 +1,40 @@
-<h1 align="center">Hi 👋, I'm JasonYang</h1>
-<h3 align="center">Master's student at the Graduate Institute of Information Management, National Cheng Kung University</h3>
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/jason_0315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jason_0315/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jason910315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jason910315/" height="30" width="40" /></a>
-</p>
+Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
+
+## 🔭 Goals of 2020
+
+I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- HTML5
+- CSS3, SCSS, SASS
+- Material-ui, Antd, Bootstrap
+- JavaScript, TypeScript
+- React, Redux, Redux-Saga React-Router, Next.js
+- Vue, Vuex, Vue-Router
+- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
+
+### 🔧 Tool
+- Version Control(Git/it-Flow)
+- Test Driven Developer
+- Open Source Projects
+- Travis-CI
+
+## 💡 Projects
+- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
+- [Hangman](https://ms314006.github.io/hangman/dist/)
+- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
+- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
+- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
+
+## 🔗 Get in touch
+- Personal site: http://ms314006.github.io/
+- Dev.to: https://dev.to/ms314006
+- StackOverflow: https://stackoverflow.com/users/10421516/clark
+- Medium: https://medium.com/@GQSM
