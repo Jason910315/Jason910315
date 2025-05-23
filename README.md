@@ -1,40 +1,43 @@
-## Hi, Im JasonYang. Welcome to my github
+<h1 align="center">Hi, I'm JasonYang. Welcome to my GitHub</h1>
 
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+🙌 Hi, I'm currently a master's student at the Institute of Information Management, National Cheng Kung University     
+I'm passionate about learning new technologies and web development skills    
+My interests include artificial intelligence, web development, and more  
+I'm actively seeking internship opportunities in the tech industry 🔍 
 
-## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
+## 🎓 My Education
+- **Kaohsiung Medical University**, Department of Healthcare Administration and Medical Informatics
 
-## 🔭 Goals of 2020
+*2020 – 2024*  
 
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+- **National Cheng Kung University**, Institute of Information Management (Master's)
 
-## 🧠 That I know and use
-### 📚 Langues and Frameworks
-- HTML5
-- CSS3, SCSS, SASS
-- Material-ui, Antd, Bootstrap
-- JavaScript, TypeScript
-- React, Redux, Redux-Saga React-Router, Next.js
-- Vue, Vuex, Vue-Router
-- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
+*2024 – Present*
 
-### 🔧 Tool
-- Version Control(Git/it-Flow)
-- Test Driven Developer
-- Open Source Projects
-- Travis-CI
+## 📚 My Skills
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### AI & Data Science
+- Machine Learning / Deep Learning (Scikit-learn)
+- Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
+
+### Database & Backend
+- SQL (MySQL / SQL Server)
+- Flask  
 
 ## 💡 Projects
-- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
-- [Hangman](https://ms314006.github.io/hangman/dist/)
-- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
-- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
-- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
+- **Development of an Intelligent System for Personalized Measurement of Resonant Myotonus Responses**
+- **Design and Evaluation of a Pre-Consultation System for Family Medicine: A User Satisfaction Study**
+## 🧱 Stats
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason910315&show_icons=true&theme=radical)
 
-## 🔗 Get in touch
-- Personal site: http://ms314006.github.io/
-- Dev.to: https://dev.to/ms314006
-- StackOverflow: https://stackoverflow.com/users/10421516/clark
-- Medium: https://medium.com/@GQSM
+
+
