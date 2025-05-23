@@ -6,13 +6,12 @@ My interests include artificial intelligence, web development, and more
 I'm actively seeking internship opportunities in the tech industry 🔍 
 
 ## 🎓 My Education
-- **Kaohsiung Medical University**, Department of Healthcare Administration and Medical Informatics
-
-*2020 – 2024*  
-
 - **National Cheng Kung University**, Institute of Information Management (Master's)
 
 *2024 – Present*
+- **Kaohsiung Medical University**, Department of Healthcare Administration and Medical Informatics
+
+*2020 – 2024*  
 
 ## 📚 My Skills
 ### Programming Languages
