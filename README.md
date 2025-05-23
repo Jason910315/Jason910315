@@ -34,8 +34,9 @@ I'm actively seeking internship opportunities in the tech industry 🔍
 - Flask  
 
 ## 💡 Projects
-- **Development of an Intelligent System for Personalized Measurement of Resonant Myotonus Responses**
-- **Design and Evaluation of a Pre-Consultation System for Family Medicine: A User Satisfaction Study**
+- [**Development of an Intelligent System for Personalized Measurement of Resonant Myotonus Responses**](https://github.com/Jason910315/Myotonus_Responses)  
+
+- [**Design and Evaluation of a Pre-Consultation System for Family Medicine: A User Satisfaction Study**](https://github.com/Jason910315/PreConsultation_System)  
 ## 🧱 Stats
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason910315&show_icons=true&theme=radical)
 
