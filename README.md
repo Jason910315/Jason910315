@@ -1,4 +1,4 @@
-## <img width="1500px" src="https://github.com/Jason910315/Jason910315/blob/main/Hi%2CI%E2%80%99m%20JasonYang.%20Welcome%20to%20my%20github.gif" />
+## <img src="https://github.com/Jason910315/Jason910315/blob/main/Hi%2CI%E2%80%99m%20JasonYang.%20Welcome%20to%20my%20github.gif" style="width: 150px; height: 500;"/>
 
 Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
 
