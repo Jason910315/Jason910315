@@ -35,7 +35,11 @@ I'm actively seeking internship opportunities in the tech industry 🔍
 ## 💡 Projects
 - [**Development of an Intelligent System for Personalized Measurement of Resonant Myotonus Responses**](https://github.com/Jason910315/Myotonus_Responses)  
 
-- [**Design and Evaluation of a Pre-Consultation System for Family Medicine: A User Satisfaction Study**](https://github.com/Jason910315/PreConsultation_System)  
+- [**Design and Evaluation of a Pre-Consultation System for Family Medicine: A User Satisfaction Study**](https://github.com/Jason910315/PreConsultation_System)
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chieh-kai-yang-87ab28367)
+
 ## 🧱 Stats
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason910315&show_icons=true&theme=radical)
 
