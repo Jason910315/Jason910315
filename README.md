@@ -38,7 +38,12 @@ I'm actively seeking internship opportunities in the tech industry 🔍
 - [**Design and Evaluation of a Pre-Consultation System for Family Medicine: A User Satisfaction Study**](https://github.com/Jason910315/PreConsultation_System)
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chieh-kai-yang-87ab28367)
+<a href="https://www.linkedin.com/in/%E5%82%91%E5%87%B1-%E6%A5%8A-08b984367/">
+  <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png" width="90" height="30" alt="CakeResume 作品集">
+</a>  
+<a href="https://www.cake.me/me/a0938692163">
+  <img src="https://play-lh.googleusercontent.com/08WWYTViW0BsZSCPFg0JKOzcR3V7Ozt9RL0IcQkrlbwc9WyP73NQhbxfxILJjKjlTA" width="50" height="45" alt="CakeResume 作品集">
+</a>
 
 ## 🧱 Stats
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason910315&show_icons=true&theme=radical)
