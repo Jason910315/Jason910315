@@ -26,11 +26,17 @@ I'm actively seeking internship opportunities in the tech industry 🔍
 
 ### AI & Data Science
 - Machine Learning / Deep Learning (Scikit-learn)
+- LLM techs : RAG、MCP
 - Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
 
 ### Database & Backend
 - SQL (MySQL / SQL Server)
-- Flask  
+- Flask
+
+### AI Automation
+- n8n
+- Flowise
+- Dify
 
 ## 💡 Projects
 - [**Development of an Intelligent System for Personalized Measurement of Resonant Myotonus Responses**](https://github.com/Jason910315/Myotonus_Responses)  
